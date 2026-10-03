@@ -1,0 +1,218 @@
+name,gasTokenGeckoId,tvl
+Solana,solana,6528094735.510067
+Tron,tron,5645349483.551335
+Bitcoin,bitcoin,4465912445.278475
+Hyperliquid L1,hyperliquid,1205316850.472111
+Bittensor,bittensor,595752642.4712211
+Sui,sui,553121846.4608765
+Anubis,,423977416.82559645
+Stellar,stellar,275850565.36321336
+Near,near,241261631.52274516
+X Layer,okb,173006336.40192956
+Starknet,starknet,155788921.83061045
+Provenance,hash-2,141176692.42560777
+Flare,flare-networks,132590650.55709404
+Stacks,blockstack,88540650.38532339
+PulseChain,pulsechain,84247139.62628385
+Mixin,mixin,77147052.25029342
+dYdX,dydx-chain,70430885.93487127
+Cardano,cardano,64549196.35931679
+Hydration,weth,58087383.51211488
+Aptos,aptos,55576881.06551669
+TON,the-open-network,54750733.10082106
+XPR Network,proton,54448729.60228295
+Vaulta,vaulta,46460376.08076416
+XRPL,ripple,45037280.362394616
+THORChain,thorchain,39574527.89564294
+Algorand,algorand,37079802.30913883
+Sei,sei-network,35164236.411072545
+RISE,ethereum,31615115.977694742
+Kava,kava,23160863.54543747
+Tezos,tezos,21373916.092123527
+Morph,bitget-token,20873404.95861784
+Chainflip,chainflip,17080947.462218575
+Strato Chain,,16084184.436405312
+Bifrost Network,bifrost,15319532.362153884
+ICP,internet-computer,14896909.271846391
+MultiversX,elrond-erd-2,14444525.926362509
+Rollux,syscoin,14121100.472996878
+Injective,injective-protocol,12810835.331531012
+AFX L1,,12225917.74127647
+Canton,canton-network,11441039.492094912
+Osmosis,osmosis,11416423.276314905
+Merlin,bitcoin,9316275.23494196
+Bitcoincash,bitcoin-cash,8498755.642552344
+Waves,waves,8377834.179793888
+Conflux,conflux-token,7567628.735987833
+Ontology,ong,5198391.010272
+CORE,coredaoorg,5098540.200415779
+Vite,,4949487.653459508
+Fuel Ignition,fuel-network,4874023.942304427
+Initia,initia,4636865.185290655
+Bifrost,bifrost-native-coin,4453704.143035294
+ZIGChain,zignaly,4350518.627129816
+Terra2,terra-luna-2,4101857.6435272894
+Gala,gala,3656720.5406479854
+Verus,verus-coin,3160551.156563627
+Zcash,zcash,3044544.50875572
+WEMIX3.0,wemix-token,2979887.913844204
+BSquared,bsquared-network,2775190.541035967
+XDC,xdce-crowd-sale,2281731.3967969515
+Doge,dogecoin,2099817.936408523
+IOTA,iota,1965191.522416288
+VeChain,vethor-token,1785928.4547025776
+Strat,initia,1703407.974006588
+Karura,karura,1607242.2266691774
+NEO,gas,1220260.4746834468
+MAP Protocol,marcopolo,1170345.902496718
+Equilibrium,,1134428.7005913283
+Litecoin,litecoin,1112949.4734318308
+Ergo,ergo,1111696.316839991
+DefiChain,defichain,1101882.183828217
+Terra Classic,terra-luna,1095577.4173886687
+ALEO,aleo,1069812.2613944816
+Alephium,alephium,748817.8986628953
+Obyte,byteball,707941.1213581729
+Supra,supra,670240.418399307
+Starcoin,starcoin,659715.7202698513
+Icon,icon,620215.8746705276
+Echelon Initia,echelon-token,514835.0939413175
+Fogo,fogo,507120.6500709941
+Zilliqa,zilliqa,455403.5705451401
+Secret,secret,429147.6998500128
+Wax,wax,423060.1239748453
+Acala,acala,376139.0539524423
+Kasplex,kaspa,370987.3270728815
+Shido,shido-2,355729.77571525576
+Axiome,axiome,349245.914932226
+EthereumPoW,ethereum-pow-iou,317974.3990902846
+Radix,radix,298213.38699275296
+Inertia,initia,285518.43168686284
+Babylon Genesis,babylon,264257.976601674
+AB,newton-project,256438.91354944944
+Carbon,switcheo,249811.7065266174
+Oasys,oasys,243370.41720314295
+Chia,chia,240761.85905087244
+Coti,coti,201517.0737603018
+Vana,vana,200599.4761053097
+Oraichain,oraichain-token,175595.3708899985
+Yominet,ethereum,158417.07254112713
+CosmosHub,cosmos,152802.93619618056
+Cabal,,152245.2171374162
+Shibarium,bone-shibaswap,141662.57021149417
+XPLA,xpla,138152.18544527056
+Voi Network,voi-network,137299.6823448591
+XO,,126545.90659637196
+Archway,archway,117532.59439881687
+Venom,venom,113851.0
+Naka,nakamoto-games,112382.945805223
+Nolus,nolus,101500.64793838096
+Agoric,agoric,100574.989961772
+Dash,dash,83572.58066928771
+Polkadex,,72043.04942898818
+Dungeon,dragon-coin-2,69365.53515693347
+RENEC,,66040.9139753668
+Chromia,chromaway,61244.432327571296
+Everscale,everscale,60971.0
+SKALE Europa,,60199.75183508416
+Civitia,initia,57592.13941630227
+Crescent,,55579.77213905445
+Qubic,qubic-network,53428.83106077428
+Juno,juno-network,52419.2310413396
+OpenGPU,open-gpu,51907.30694491621
+Keeta,keeta,49579.37519259183
+Redbelly,redbelly-network-token,48197.68196312516
+Pego,,47690.19904164177
+Dymension,dymension,41390.43058350436
+Eclipse,eclipse-3,39954.29824243172
+Areum Network,areon-network,31356.27746062814
+Chihuahua,chihuahua-token,28481.95132128796
+Vara,vara-network,26945.04908697733
+AO,ao-computer,26499.90222845804
+Massa,massa,25695.78916427874
+Persistence One,persistence,25238.034801221867
+svmBNB,,20828.523325173857
+Hydra,hydra,19247.790503329372
+Neutron,neutron-3,18484.603855181074
+Sora,sora-2,18282.26
+aelf,aelf,16631.486804972777
+Comdex,,15648.000987417912
+Aura Network,aura-network,13314.654465251771
+Penumbra,,10999.3843775574
+Libre,,9620.22776835427
+Xai,xai-blockchain,8616.592399565207
+XION,xion-2,3963.922038397924
+MultiVAC,multivac,3479.471214073563
+CookieChain,cookie-2,2363.4314287334714
+Soon Network,soon-2,2295.8175081077893
+Darwinia,darwinia-network-native-token,2277.051621223064
+Bostrom,bostrom,1470.1806197066398
+Concordium,concordium,1454.9542121835188
+Aeternity,aeternity,621.567034100171
+Elysium,vulcan-forged,607.557685191603
+Namada,,598.625277913628
+EOS EVM,vaulta,440.3473304768799
+Loop,loopnetwork,298.2361326225528
+Dogechain,dogecoin,270.9198302997899
+Bahamut,,0.0
+Boba_Avax,boba-network,0.0
+SX Network,sx-network,0.0
+SX Rollup,sx-network,0.0
+Kujira,,0.0
+Goerli,ethereum,0.0
+Step,step-app-fitfi,0.0
+Lamden,,0.0
+DFS Network,,0.0
+Genshiro,,0.0
+Unit Zero,unit0,0.0
+Kardia,kardiachain,0.0
+ZKsync Lite,,0.0
+Empire,,0.0
+Boba_Bnb,boba-network,0.0
+Sifchain,,0.0
+Canto,canto,0.0
+Nuls,,0.0
+Echelon,,0.0
+Kadena,kadena,0.0
+Omax,omax-token,0.0
+Kintsugi,,0.0
+ALV,,0.0
+DSC,,0.0
+FunctionX,,0.0
+Tlchain,,0.0
+UX,,0.0
+Dexit,,0.0
+Parallel,,0.0
+DuckChain,the-open-network,0.0
+FSC,,0.0
+Mayachain,cacao,0.0
+ETHF,,0.0
+MEER,,0.0
+NOS,,0.0
+MVC,microvisionchain,0.0
+Migaloo,,0.0
+Tenet,,0.0
+Onus,,0.0
+ENULS,,0.0
+Rangers,,0.0
+Bone,,0.0
+Bitindi,,0.0
+Zeniq,zeniq,0.0
+Stargaze,stargaze,0.0
+Heiko,,0.0
+Vision,,0.0
+Interlay,,0.0
+Tombchain,,0.0
+Kopi,,0.0
+Elys,,0.0
+Bitnet,,0.0
+RSS3,rss3,0.0
+Joltify,,0.0
+JBC,,0.0
+BEVM,bitcoin,0.0
+XCHAIN,ethereum,0.0
+QL1,,0.0
+Manta Atlantic,manta-network,0.0
+soonBase,,0.0
+Eventum,ethereum,0.0
+Open,openledger-2,0.0
